@@ -5,17 +5,22 @@
 <!--   <img src="images/4.JPG" alt="Image 2" style="width: 33%; margin: 10px;"> -->
 </div>
 
-## 📜 machine-learning-algorithms-scratch
+### 📜 machine-learning-algorithms-scratch
+##### 🧠 Overview 
 Comprehensive Machine Learning concepts &amp; algorithms implemented from scratch using Python &amp; numpy only.
+This repository is a collection of core machine learning algorithms built without any external ML libraries like Scikit-learn or TensorFlow. The goal is to gain a deep understanding of how these algorithms work under the hood — mathematically and programmatically.
 
-#### 🎯 Use Cases 
-- Implementing ML models from sccratch
-- Learning the foundation of ML algorithms
+##### 🎯 Use Cases 
+- Implementing ML algorithms/models from scratch
+- Learning the mathematical mehanism behind ML algorithms
+- Learning the foundations of machine learning
+- Teaching aid for ML courses
+- Interview preparation
   
-#### Project Status
+##### Project Status
 - Current Version: V1.0
 
-### 📃 Repository Structure
+#### 📃 Repository Structure
 ```
 machine-learning-algorithms-scratch/
 ├── images/
@@ -37,7 +42,7 @@ machine-learning-algorithms-scratch/
 ├── unsupervised/
 │   │   ├── clustering
 │   │   │   ├── kmc
-│   │   ├── dimentionality-reduction
+│   │   ├── dimensionality-reduction
 │   │   │   ├── pca
 │   │   │   └── lda
 │   │   ├── association-rule-learning
@@ -48,8 +53,10 @@ machine-learning-algorithms-scratch/
 ```
 
 ### ✨ Features
-- All ML algorithms convering supervised, unsupervised and semi-supervised learning
-- Algorithms/Models implemented completely from scratch using only python & numpy
+- Covers supervised, unsupervised and semi-supervised ML algorithms
+- Pure Python and NumPy — no ML libraries
+- Modular, clean, and reusable code
+- Educational and beginner-friendly
 
 <!-- ### 🔍 Demo
 <a href="https://youtu.be/Qor8kjsCJkA?si=7d1Mhc0KW4GQb3sF" target="_blank">
@@ -63,11 +70,11 @@ machine-learning-algorithms-scratch/
 - None
 -->
 
-### 💻 Software Requirements
-- IDE (VS Code)
+##### 💻 Software Requirements
+- IDE (VS Code) or jupyter notebook or google colab
 - Python 3
   
-### 🛡️ Tech Stack
+##### 🛡️ Tech Stack
 - Python 💻
 - Numpy, Pandas, Matplotlib, Scikit-Learn🧩
 
@@ -76,31 +83,38 @@ machine-learning-algorithms-scratch/
 - none
 -->
 
-### ⚙️ Installation
+##### ⚙️ Installation
 ```
-git clone https://github.com/pointer2Alvee/embd-sys-ultrasonic-radar.git
-cd your-repo  
+git clone https://github.com/yourusername/machine-learning-algorithms-scratch.git
+cd ml-algorithms-scratch 
 ```
 
-### 📖 Usage
-- Open the repoitory in vs code
-- Run each .ipynb files
+##### 📖 Usage
+- Open .ipynb files inside each algorithm directory and run them to see training/inference steps, plots, and results.
 
-### 🗺️ Roadmap
-- [x] Raw ML algorithms
-- [ ] ML algorithms implementation using tensorflow
-- [ ] ML algorithms implementation using scikit-learn
-- [ ] ML algorithms implementation using pyTorch
+### 🧪 Algorithms Implemented
+- ✅ Supervised-Classification   : Logistic-Regression, SVM, KNN, Naive-Bayes, Decision-Tree, Random-Forest
+- ✅ Supervised-Regression       : LR, MLR, Decision-Tree, Random-Forest
+- ✅ Unsupervised-Clustering     : KMC
+- ✅ Unsupervised-DimenReduction : PCA'
+
+- ⏳ Upcoming  : LDA, Adaboost, SVM (SVR & non-linear SVM, kernel-trick), GBM, Neural-Network from scratch, Perceptron
+
+### 🧭 Roadmap
+- [x] Implement raw ML algorithms from scratch
+- [ ] Re-implement ML algorithms using tensorflow
+- [ ] Re-implement ML algorithms using scikit-learn
+- [ ] Re-implement ML algorithms using pyTorch
 
 ### 🤝 Contributing
 Contributions are welcomed!
-
+```
 + Fork the repo. 
 + Create a branch: ```git checkout -b feature/YourFeature```
 + Commit changes: ```git commit -m 'Add some feature'```
 + Push to branch: ```git push origin feature/YourFeature```
 + Open a Pull Request.
-
+```
 ### 📜License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
