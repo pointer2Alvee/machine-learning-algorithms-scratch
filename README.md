@@ -1,7 +1,8 @@
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="images/proj_pic_1.jpg" alt="Image 1" style="width: 30%; margin: 10px;">
-  <img src="images/proj_pic_2.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
-  <img src="images/proj_pic_3.jpg" alt="Image 3" style="width: 30%; margin: 10px;">
+  <img src="images/1.jpg" alt="Image 1" style="width: 25%; margin: 10px;">
+  <img src="images/2.jpg" alt="Image 2" style="width: 25%; margin: 10px;">
+  <img src="images/3.jpg" alt="Image 3" style="width: 25%; margin: 10px;">
+  <img src="images/4.jpg" alt="Image 2" style="width: 25%; margin: 10px;">
 </div>
 
 ## 📜 machine-learning-algorithms-scratch
