@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="images/1.JPG" alt="Image 1" style="width: 48%; margin: 10px;">
-  <img src="images/2.JPG" alt="Image 2" style="width: 48%; margin: 10px;">
+  <img src="images/1.JPG" alt="Image 1" style="width: 49%; margin: 10px;">
+  <img src="images/2.JPG" alt="Image 2" style="width: 49%; margin: 10px;">
 <!--   <img src="images/3.JPG" alt="Image 3" style="width: 25%; margin: 10px;"> -->
 <!--   <img src="images/4.JPG" alt="Image 2" style="width: 33%; margin: 10px;"> -->
 </div>
@@ -48,20 +48,20 @@ machine-learning-algorithms-scratch/
 ```
 
 ### ✨ Features
-- Obstacle detection within a defined range
-- Visualizes radar graphics using Processing IDE
-- Arduino-based, portable design
+- All ML algorithms convering supervised, unsupervised and semi-supervised learning
+- Algorithms/Models implemented completely from scratch using only python & numpy
 
-### 🔍 Demo
+<!-- ### 🔍 Demo
 <a href="https://youtu.be/Qor8kjsCJkA?si=7d1Mhc0KW4GQb3sF" target="_blank">
   <img src="https://img.youtube.com/vi/Qor8kjsCJkA/hqdefault.jpg" alt="YouTube Video" width="390" height="270">
-</a>
+</a> -->
 
 ### 🚀 Getting Started
-- Knowledge Required : C/C++, sensors, servo motors, basic circuit design
+- Knowledge Required : python, linear algebra, probability, statistics, numpy, matplotlib
 
-### 🛠️ Hardware Requirements
+<!-- ### 🛠️ Hardware Requirements
 - None
+-->
 
 ### 💻 Software Requirements
 - IDE (VS Code)
@@ -71,8 +71,10 @@ machine-learning-algorithms-scratch/
 - Python 💻
 - Numpy, Pandas, Matplotlib, Scikit-Learn🧩
 
+<!--
 ### 🖇️ Schematic
 - none
+-->
 
 ### ⚙️ Installation
 ```
@@ -81,8 +83,8 @@ cd your-repo
 ```
 
 ### 📖 Usage
-- Upload the Arduino sketch via Arduino IDE.
-- Run the Processing IDE script for radar visualization.
+- Open the repoitory in vs code
+- Run each .ipynb files
 
 ### 🗺️ Roadmap
 - [x] Raw ML algorithms
