@@ -5,19 +5,19 @@
 <!--   <img src="images/4.JPG" alt="Image 2" style="width: 33%; margin: 10px;"> -->
 </div>
 
-### 📜 machine-learning-algorithms-scratch
-##### 🧠 Overview 
+## 📜 machine-learning-algorithms-scratch
+#### 🧠 Overview 
 Comprehensive Machine Learning concepts &amp; algorithms implemented from scratch using Python &amp; numpy only.
 This repository is a collection of core machine learning algorithms built without any external ML libraries like Scikit-learn or TensorFlow. The goal is to gain a deep understanding of how these algorithms work under the hood — mathematically and programmatically.
 
-##### 🎯 Use Cases 
+#### 🎯 Use Cases 
 - Implementing ML algorithms/models from scratch
 - Learning the mathematical mehanism behind ML algorithms
 - Learning the foundations of machine learning
 - Teaching aid for ML courses
 - Interview preparation
   
-##### Project Status
+#### 🟢 Project Status
 - Current Version: V1.0
 
 #### 📃 Repository Structure
@@ -74,7 +74,7 @@ machine-learning-algorithms-scratch/
 - IDE (VS Code) or jupyter notebook or google colab
 - Python 3
   
-##### 🛡️ Tech Stack
+#### 🛡️ Tech Stack
 - Python 💻
 - Numpy, Pandas, Matplotlib, Scikit-Learn🧩
 
@@ -83,20 +83,20 @@ machine-learning-algorithms-scratch/
 - none
 -->
 
-##### ⚙️ Installation
+#### ⚙️ Installation
 ```
 git clone https://github.com/yourusername/machine-learning-algorithms-scratch.git
 cd ml-algorithms-scratch 
 ```
 
-##### 📖 Usage
+#### 📖 Usage
 - Open .ipynb files inside each algorithm directory and run them to see training/inference steps, plots, and results.
 
 ### 🧪 Algorithms Implemented
-- ✅ Supervised-Classification   : Logistic-Regression, SVM, KNN, Naive-Bayes, Decision-Tree, Random-Forest
-- ✅ Supervised-Regression       : LR, MLR, Decision-Tree, Random-Forest
-- ✅ Unsupervised-Clustering     : KMC
-- ✅ Unsupervised-DimenReduction : PCA'
+- ✅ Supervised-Classification   :- Logistic-Regression, SVM, KNN, Naive-Bayes, Decision-Tree, Random-Forest
+- ✅ Supervised-Regression       :- LR, MLR, Decision-Tree, Random-Forest
+- ✅ Unsupervised-Clustering     :- KMC
+- ✅ Unsupervised-DimenReduction :- PCA
 
 - ⏳ Upcoming  : LDA, Adaboost, SVM (SVR & non-linear SVM, kernel-trick), GBM, Neural-Network from scratch, Perceptron
 
@@ -108,13 +108,12 @@ cd ml-algorithms-scratch
 
 ### 🤝 Contributing
 Contributions are welcomed!
-```
-+ Fork the repo. 
-+ Create a branch: ```git checkout -b feature/YourFeature```
-+ Commit changes: ```git commit -m 'Add some feature'```
-+ Push to branch: ```git push origin feature/YourFeature```
-+ Open a Pull Request.
-```
+1. Fork the repo. 
+2. Create a branch: ```git checkout -b feature/YourFeature```
+3. Commit changes: ```git commit -m 'Add some feature'```
+4. Push to branch: ```git push origin feature/YourFeature```
+5. Open a Pull Request.
+
 ### 📜License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
