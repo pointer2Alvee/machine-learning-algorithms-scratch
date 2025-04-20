@@ -1,7 +1,6 @@
 # Ignore data files
 *.csv
 *.xlsx
-*.json
 *.pdf
 
 # Ignore Python cache and environment folders
